@@ -5,7 +5,7 @@ Project Survive is a Rogue Like game inspired by Vampire Survivors.
 
 # Game Preview
 ### Click the Image for the youtube preview of the game
-[![Watch the video](http://img.youtube.com/vi/EZl_F5Vq_W8/0.jpg)]([https://youtu.be/EZl_F5Vq_W8](https://www.youtube.com/watch?v=EZl_F5Vq_W8))
+[![Watch the video](http://img.youtube.com/vi/EZl_F5Vq_W8/0.jpg)](https://www.youtube.com/watch?v=EZl_F5Vq_W8)
 
 ## Screenshots
 ![Project Survive 1](https://github.com/ronstar0502/Project-Survive/assets/102975645/fff2bf2b-0b8e-4804-84e1-fedac0eb5433)
@@ -14,7 +14,7 @@ Project Survive is a Rogue Like game inspired by Vampire Survivors.
 
 ## How to Download
 You can download the latest build of Project Survive from the link below:
-https://drive.google.com/file/d/17EMhZsLj3qfAiXE2va0rwoANvWAHqy69/view?usp=sharing)
+https://drive.google.com/file/d/17EMhZsLj3qfAiXE2va0rwoANvWAHqy69/view?usp=sharing
 
 ## Installation
 To play Project Survive, follow these steps:
