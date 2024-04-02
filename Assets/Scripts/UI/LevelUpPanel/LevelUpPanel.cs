@@ -14,6 +14,7 @@ public class LevelUpPanel : MonoBehaviour
     [SerializeField] private TextMeshProUGUI buff2Text;
     [SerializeField]private Button buffButton3;
     [SerializeField] private TextMeshProUGUI buff3Text;
+
     public List<Buff> buffs;
     private List<Buff> selectedBuffs = new List<Buff>();
 
